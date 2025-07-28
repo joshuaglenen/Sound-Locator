@@ -35,7 +35,15 @@ Figure 3: A response to a sound aimed at one microphone
 
 <img width="632" height="168" alt="Middle" src="https://github.com/user-attachments/assets/4110fd54-f572-4f6a-9ff8-b5043678de8c" />
 
-Figure 4: A repsone to a sound coming from between microphones
+Figure 4: A repsonse to a sound coming from between microphones
+
+### Circuit
+
+The circuit diagram and pcb used in the prototype are below.
+
+<img width="3507" height="2480" alt="Untitled" src="https://github.com/user-attachments/assets/94d388ef-00fb-4ba1-a390-216dd17175db" />
+
+Figure 4: Circuit diagram
 
 ### Results
 
