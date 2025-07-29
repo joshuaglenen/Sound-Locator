@@ -43,7 +43,12 @@ The circuit diagram and pcb used in the prototype are below.
 
 <img width="3507" height="2480" alt="Untitled" src="https://github.com/user-attachments/assets/94d388ef-00fb-4ba1-a390-216dd17175db" />
 
-Figure 4: Circuit diagram
+Figure 5: Circuit diagram
+
+<img width="754" height="531" alt="Capture" src="https://github.com/user-attachments/assets/d535bfd5-4a34-433f-8a62-6f15a83c09fd" />
+
+
+Figure 6: PCB Model
 
 ### Results
 
